@@ -1,0 +1,22 @@
+/* main{
+    display: grid;
+    grid-template-columns: repeat(13,50px);
+} */
+
+.case{
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+
+.wall{
+    background-color: gray;
+}
+
+.path{
+    background-color: bisque;
+}
+
+.treasure{
+    background-color: blueviolet;
+}
